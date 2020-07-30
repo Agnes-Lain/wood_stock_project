@@ -1,0 +1,40 @@
+/* Fonts */
+@import url('https://fonts.googleapis.com/css2?family=Amatic+SC:wght@400;700&family=Do+Hyeon&family=Recursive:wght@300;400;800&family=Schoolbell&display=swap');
+/* Fontawesome */
+@import url('https://use.fontawesome.com/releases/v5.6.3/css/all.css');
+@import url('components/banner.css');
+@import url('components/container.css');
+@import url('components/button.css');
+@import url('components/card.css');
+@import url('components/icon.css');
+@import url('components/footer.css');
+@import url('components/logo.css');
+/* Utilities */
+body {
+  margin: 0;
+  font-family: 'Amatic SC', cursive;
+}
+
+h1 {
+  font-family: 'Amatic SC', cursive;
+  font-weight: bold;
+  font-size: 60px;
+  letter-spacing: 1px;
+}
+
+h2, h3, h4 {
+  font-family: 'Amatic SC', cursive;
+  font-weight: normal;
+}
+
+
+a {
+  text-decoration: none;
+}
+
+.intro{
+  padding: 50px 0px;
+}
+
+/* Custom design below! */
+

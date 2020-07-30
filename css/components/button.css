@@ -1,0 +1,15 @@
+.btn-brown {
+  background-color: rgb(136, 55, 36);
+  padding: 10px 25px;
+  color: white;
+  font-weight: bold;
+  border-radius: 30px;
+  opacity: 0.8;
+  display:inline-block;
+  margin-top: 50px;
+}
+
+.btn-brown:hover {
+  opacity: 1;
+  transition: all 300ms ease-in-out;
+}

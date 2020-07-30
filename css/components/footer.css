@@ -1,0 +1,17 @@
+.footer {
+  background: #C1DB7D;
+  height: 300px;
+  opacity: 0.9;
+  color: rgba(0,0,0,0.9);
+  margin-top: 30px;
+  position: relative;
+  text-align: center;
+}
+
+.footer .container {
+  padding-top: 100px;
+}
+
+.footer p {
+  font-size: 20px;
+}
